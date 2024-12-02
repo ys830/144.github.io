@@ -1,0 +1,13 @@
+@font-face{
+    font-family: '霞鹜文楷';
+    font-display: swap;
+    src: url('../font/lxgw-wenkai/lxgw-wenkai-v1.501/LXGWWenKai-Regular.ttf') format("truetype");
+}
+@font-face{
+    font-family: 'JetBrains Mono';
+    font-display: swap;
+    src: url('../font/JetBrains-Mono/JetBrains-Mono/JetBrainsMono-Regular-2.ttf') format("truetype");
+}
+body {
+    font-family: '霞鹜文楷','JetBrains Mono';
+}
